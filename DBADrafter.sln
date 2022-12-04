@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DBADrafter", "DBADrafter\DBADrafter.pyproj", "{99EB75C9-FDE0-4D8A-AD39-41F1A76E0DFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{179879E1-23D9-4A62-AEDE-965F1DDA858F}"
+	ProjectSection(SolutionItems) = preProject
+		run_code.sh = run_code.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EB75C9-FDE0-4D8A-AD39-41F1A76E0DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EB75C9-FDE0-4D8A-AD39-41F1A76E0DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7886AE9F-591A-4C91-ABF5-E8E30F938868}
+	EndGlobalSection
+EndGlobal
